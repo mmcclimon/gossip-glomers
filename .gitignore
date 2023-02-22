@@ -1,2 +1,6 @@
-/maelstrom
+# my binaries
 /dist
+
+# stuff for maelstrom, which I'm keeping here for ease of use
+/maelstrom-libs
+/store
